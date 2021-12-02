@@ -1,0 +1,56 @@
+#logo {
+    text-align: center;
+}
+
+.jumbotron {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+#topImage {
+    padding-bottom: 80px;
+}
+.container {
+    padding: 25px;
+}
+
+.caseStudySection {
+    align-content: center;
+    margin: 0 auto;
+}
+
+.caseStudyImages {
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+}
+
+#aboutProject, #process, #research, #userPersona, #keyInsights {
+    padding: 30px;
+}
+
+
+h1 {
+    
+}
+
+h2 {
+    font-size: 28px !important;
+}
+
+#keyInsightCards, #feedbackCards {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    padding:20px;
+    margin: 20px;
+}
+
+#problemSolution {
+    display: flex;
+    justify-content: space-between;
+}
